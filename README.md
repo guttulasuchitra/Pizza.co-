@@ -48,8 +48,8 @@ Other Tools: (e.g., Axios for API calls, React Router for navigation)
 
 ### Home Page
 
-![Home Page](./Screenshots/picture_1.png)
+![Home Page](./Screenshots/Picture_1.png)
 
 ### Menu Section
 
-![Menu Section](./Screenshots/picture_2.png)
+![Menu Section](./Screenshots/Picture_2.png)
